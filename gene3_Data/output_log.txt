@@ -1,0 +1,47 @@
+Mono path[0] = 'E:/Master Project/New folder/FlockingShooter-master/gene3_Data/Managed'
+Mono config path = 'E:/Master Project/New folder/FlockingShooter-master/gene3_Data/Mono/etc'
+PlayerConnection initialized from E:/Master Project/New folder/FlockingShooter-master/gene3_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55260
+Multi-casting "[IP] 192.168.0.13 [Port] 55260 [Flags] 2 [Guid] 2559864602 [EditorId] 4185279193 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-9T579JM) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55260]
+PlayerConnection already initialized - listening to [0.0.0.0:55260]
+Player data archive not found at `E:/Master Project/New folder/FlockingShooter-master/gene3_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0b9 (a1e6a9071015)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Master Project\New folder\FlockingShooter-master\gene3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.319 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviour.cpp Line: 1758)
+
+UnloadTime: 2.418800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3908 -> priority: 1 
+  Thread -> id: 19e0 -> priority: 1 
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 3727)
+
