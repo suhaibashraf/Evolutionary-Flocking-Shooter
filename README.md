@@ -1,6 +1,8 @@
 # Evolutionary Flocking Shooter
-Unity Games Project created by Heronimus.
-Implementation of Genetic Algorithm by Sohaib.
+Recently, upgraded with Genetic algorithm. Which enabled bots to learn how to locate the target, avoid danger and exterminate it. 
+
+## Technology Used
+Unity3d Engine, Genetic Algorithm and C#.
 
 ### Made from Unity
  *  Tanks
