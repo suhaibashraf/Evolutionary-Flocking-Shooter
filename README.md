@@ -9,8 +9,6 @@ Unity3d Engine, Genetic Algorithm and C#.
  *  Survival Shooter
  *  Genetic Algorithm
  
-### Demo Link
-www.youtube.com/watch?v=A9k6WBoY548
-
-### More Detail on Portfolio
-suhaibashraf.github.io/Portfolio/MScProject
+### More Details
+Demo Link: www.youtube.com/watch?v=A9k6WBoY548
+Portfolio Link: suhaibashraf.github.io/Portfolio/MScProject
