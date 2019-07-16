@@ -10,4 +10,7 @@ Unity3d Engine, Genetic Algorithm and C#.
  *  Genetic Algorithm
  
 ### Demo Link
-https://www.youtube.com/watch?v=dgx_kp1qwFo&t=35s
+www.youtube.com/watch?v=A9k6WBoY548
+
+### More Detail on Portfolio
+suhaibashraf.github.io/Portfolio/MScProject
