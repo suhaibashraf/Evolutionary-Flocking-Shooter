@@ -9,8 +9,7 @@ Unity3d Engine, Genetic Algorithm and C#.
  *  Survival Shooter
  *  Genetic Algorithm
  
-### More Details
-Demo Video
+### Links
 [Demo Video Link](http://www.youtube.com/watch?v=A9k6WBoY548 "Evolutionary Flocking Shooter")
 
 [Portfolio Link](https://suhaibashraf.github.io/Portfolio/Evolutionary-flocking-shooter)
