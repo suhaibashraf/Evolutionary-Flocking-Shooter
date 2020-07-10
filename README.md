@@ -10,6 +10,7 @@ Unity3d Engine, Genetic Algorithm and C#.
  *  Genetic Algorithm
  
 ### More Details
-Demo Link: www.youtube.com/watch?v=A9k6WBoY548
+Demo Video
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/A9k6WBoY548/0.jpg)](http://www.youtube.com/watch?v=A9k6WBoY548 "Evolutionary Flocking Shooter")
 
 Portfolio Link: suhaibashraf.github.io/Portfolio/MScProject
