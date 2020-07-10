@@ -12,4 +12,4 @@ Unity3d Engine, Genetic Algorithm and C#.
 ### Links
 [Demo Video Link](http://www.youtube.com/watch?v=A9k6WBoY548 "Evolutionary Flocking Shooter")
 
-[Portfolio Link](https://suhaibashraf.github.io/Portfolio/Evolutionary-flocking-shooter)
+[Portfolio Link](https://suhaibashraf.github.io/Portfolio/evolutionary-flocking-shooter)
