@@ -2,8 +2,10 @@
 Recently, upgraded with Genetic algorithm. Which enabled bots to learn how to locate the target, avoid danger and exterminate it. 
 
 ### Technology Used
-Unity3d Engine, Genetic Algorithm and C#.
-
+ *  Unity3d Engine
+ *  Genetic Algorithm
+ *  C#
+ 
 ### Made with Unity
  *  Tanks
  *  Survival Shooter
