@@ -19,4 +19,4 @@ Recently, upgraded with Genetic algorithm. Which enabled bots to learn how to lo
 ### License
 This project (Flocking Shooter) is licensed under the [MIT license](https://github.com/suhaibashraf/Evolutionary-Flocking-Shooter/blob/master/LICENSE.TXT).
 
-### Product of CoklatGames 2017
+### Worked with CoklatGames 2017
