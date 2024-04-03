@@ -1,7 +1,7 @@
 # Evolutionary Flocking Shooter
 "Evolutionary Flocking Shooter" is an advanced AI simulation where robots employ a genetic algorithm to enhance their survival tactics. This upgrade allows the bots to intelligently locate targets, navigate dangers, and efficiently eliminate threats. Developed using Unity3D, this project showcases the integration of genetic algorithms in creating adaptive and intelligent AI agents within a gaming context.
 
-## Features
+### Features
 * __Genetic Algorithm Implementation:__ Bots evolve, learning to identify targets, avoid threats, and optimize attack strategies through genetic algorithms.
 * __Survival Shooter Mechanics:__ Engage in a survival shooter experience where AI bots demonstrate increasingly complex behaviors.
 * __Unity3D Engine:__ Leveraging Unity3D's powerful engine to create a dynamic and responsive gaming environment.
